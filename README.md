@@ -1,7 +1,6 @@
 
 # 👚 Fashion MNIST Classification with PyTorch
 
-Hey there! 👋  
 This repository explores how well different deep learning models can classify images from the **Fashion MNIST** dataset — a set of 28x28 grayscale images of clothes like shirts, sneakers, and bags.
 
 I’ve built and compared **three different models using PyTorch**:
